@@ -1,0 +1,15 @@
+C:\Users\davis\Documents\csharp\ESFERA\bin\Debug\net6.0\ESFERA.exe
+C:\Users\davis\Documents\csharp\ESFERA\bin\Debug\net6.0\ESFERA.deps.json
+C:\Users\davis\Documents\csharp\ESFERA\bin\Debug\net6.0\ESFERA.runtimeconfig.json
+C:\Users\davis\Documents\csharp\ESFERA\bin\Debug\net6.0\ESFERA.dll
+C:\Users\davis\Documents\csharp\ESFERA\bin\Debug\net6.0\ESFERA.pdb
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.csproj.AssemblyReference.cache
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.AssemblyInfoInputs.cache
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.AssemblyInfo.cs
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.dll
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\refint\ESFERA.dll
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.pdb
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ESFERA.genruntimeconfig.cache
+C:\Users\davis\Documents\csharp\ESFERA\obj\Debug\net6.0\ref\ESFERA.dll
